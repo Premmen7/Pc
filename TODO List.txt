@@ -1,0 +1,34 @@
+Pages
+-----
+
+1. Home
+2. Authentication
+3. Review
+4. !Part List
+5. !Customize Build
+6. Profile View
+7. Profile Edit
+8. !Admin Tools
+9. Builds List & Options List
+10. Order Screen
+11. Recover Account Password
+
+
+Roadmap
+-------
+
+1. html design: Tags, colors, cards, etc.
+2. Program functionalities: Error checking, Models, Authentication, etc.
+3. Database design: link functionalities to db fields, build database, etc.
+4. Populate database (The magic): Add data to the db
+5. Fix errors
+
+
+Deadlines
+---------
+
+html design: April 30
+Program functionalities: May 6
+Database Design: May 8
+Populate database: May 9
+Fix errors: May 10
